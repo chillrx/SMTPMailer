@@ -1,2 +1,2 @@
 # SMTPMailer
-Mailer - Java
+Mailer made with Java
